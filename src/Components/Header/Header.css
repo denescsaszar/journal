@@ -1,0 +1,20 @@
+/* Header */
+
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1.125em 1em;
+  gap: 0.625em;
+
+  width: 23em;
+  height: 3.375em;
+
+  background: #e4e8f0;
+
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+}

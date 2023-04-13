@@ -1,0 +1,17 @@
+/* Footer */
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2em 0em 0em;
+  gap: 0.625em;
+
+  width: 23em;
+  height: 5.5em;
+
+  flex: none;
+  order: 2;
+  align-self: stretch;
+  flex-grow: 0;
+}
